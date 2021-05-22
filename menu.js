@@ -1,6 +1,5 @@
 <script type="text/javascript">
-  alert("
-<div id="prv-billboard"></div>
+  alert("<div id="prv-billboard"></div>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -202,6 +201,5 @@ margin: 4px 4px 4px 4px;
   </div>
 
   <a href="#contact">Contact</a>
-</div>
-  ");
+</div>");
 </script>

@@ -202,4 +202,4 @@ margin: 4px 4px 4px 4px;
   <a href="#contact">Contact</a>
 </div>
 
-})();
+);

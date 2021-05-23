@@ -24,6 +24,8 @@ http://stream.zeno.fm/xwvpgfvk7yzuv
 #EXTINF:-1,Radio 5
 http://stream.zeno.fm/9921m8gf8yzuv
 #EXTINF:-1,VOX FM
+https://ext03.ic.smcdn.pl/3990-1.mp3
+#EXTINF:-1,VOX FM m3u8
 https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8
 #EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal CLUB
 http://play.radioftb.net:8000

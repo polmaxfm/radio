@@ -11,9 +11,9 @@ http://stream.zeno.fm/qe4uq4wwrceuv
 http://stream.zeno.fm/5hfdntgf8yzuv
 #EXTINF:-1,Radio Misiek aac +
 http://stream.zeno.fm/h2pfs2gf8yzuv
-#EXTINF:-1,Radio Anio≈Çek - Religijne
+#EXTINF:-1,Radio Anioƒπ‚Äöek - Religijne
 http://stream.zeno.fm/nvz73r6m7yzuv
-#EXTINF:-1,Radio Anio≈Çek aac +
+#EXTINF:-1,Radio Anioƒπ‚Äöek aac +
 http://stream.zeno.fm/gmzwr46m7yzuv
 #EXTINF:-1,Radio Zabawa
 http://stream.zeno.fm/xwvpgfvk7yzuv
@@ -85,7 +85,7 @@ http://s1.radiohost.pl:8126
 http://s1.slotex.pl:7022/
 #EXTINF:-1,Radio Alex Zakopane
 http://proxima.shoutca.st:9045/stream
-#EXTINF:-1,Axel - Kocha≥a TaÒczyÊ (Disco Radio - zawsze w rytmie!)
+#EXTINF:-1,Axel - Kocha≈Ça Ta≈Ñczyƒá (Disco Radio - zawsze w rytmie!)
 http://www.discoradio.net/stream
 #EXTINF:-1,Loona - Latino Lover (Radio EXPRESS FM)
 http://radioexpress.pl/stream1
@@ -97,7 +97,7 @@ http://91.121.118.99:8032/stream2
 http://megaradio.com.pl/stream
 #EXTINF:-1,http://stream4.nadaje.com:14572/fallback
 http://stream4.nadaje.com:14572/fallback
-#EXTINF:-1,Radio AM Andrych√≥w
+#EXTINF:-1,Radio AM AndrychƒÇ≈Çw
 http://s1.slotex.pl:7424/stream
 #EXTINF:-1,Radio Lipsko
 http://s1.slotex.pl:7298/;
@@ -177,7 +177,7 @@ http://stream3.polskieradio.pl:8900/
 http://stream3.polskieradio.pl:8080/
 #EXTINF:-1,Radio FARA
 http://62.133.128.22:8000/relay
-#EXTINF:0,Radio Jard Bia≈Çystok
+#EXTINF:0,Radio Jard Biaƒπ‚Äöystok
 http://online.jard.pl:8744/jard1
 #EXTINF:-1,Radio Jasna Gora 100,6 FM Czestochowa
 http://online.radiojasnagora.pl:8000/rjg
@@ -193,7 +193,7 @@ http://streaming.radio.lublin.pl:8000/rl_mp3
 http://streaming.radio.lublin.pl:8000/64k
 #EXTINF:-1,(Radio Niepokalanow)
 http://88.199.169.10:7600/rn.mp3
-#EXTINF:-1,Radio Opat√≥w
+#EXTINF:-1,Radio OpatƒÇ≈Çw
 http://stream2.nadaje.com:11144/;
 #EXTINF:-1,http://stream4.nadaje.com:14572/stream.mp3
 http://stream4.nadaje.com:14572/stream.mp3
@@ -219,7 +219,7 @@ http://s1.slotex.pl:7446/;
 http://zet-net-01.cdn.eurozet.pl:8400/
 #EXTINF:-1,http://streaming.tvs.pl:8010
 http://streaming.tvs.pl:8010
-#EXTINF:-1,lecimy z szalonπ kasiπ
+#EXTINF:-1,lecimy z szalonƒÖ kasiƒÖ
 http://s1.slotex.pl:7396/;
 #EXTINF:-1,http://s1.slotex.pl:7288/
 http://s1.slotex.pl:7288/
@@ -549,7 +549,7 @@ https://waw02-02.ic.smcdn.pl/t038-1.mp3
 https://waw02-02.ic.smcdn.pl/t030-1.mp3
 #EXTINF:-1,Special Kobiety Rakiety
 https://waw01-02.ic.smcdn.pl/t088-1.mp3
-#EXTINF:0,Open FM 1 Olga Przybysz - Niebo bliøej nas w Po Polsku (1)
+#EXTINF:0,Open FM 1 Olga Przybysz - Niebo bli≈ºej nas w Po Polsku (1)
 https://stream.open.fm/1
 #EXTINF:0,Open FM 2 Mike Williams feat. Moa Lisa - Make You Mine w Impreza (2)
 https://stream.open.fm/2
@@ -573,23 +573,23 @@ https://stream.open.fm/9
 https://stream.open.fm/10
 #EXTINF:0,Jennifer Paige - Crush w 1001 Hits (11)
 https://stream.open.fm/11
-#EXTINF:0,Czadoman - Rozeúmiana w Impreza PL (12)
+#EXTINF:0,Czadoman - Roze≈õmiana w Impreza PL (12)
 https://stream.open.fm/12
-#EXTINF:0,Godsmack - I Stand Alone w CiÍøkie Brzmienia (13)
+#EXTINF:0,Godsmack - I Stand Alone w Ciƒô≈ºkie Brzmienia (13)
 https://stream.open.fm/13
 #EXTINF:0,Wilki - Son of the Blue Sky w 90s Hits (14)
 https://stream.open.fm/14
-#EXTINF:0,Døem - Wiem na pewno wiem-nie nie kocham CiÍ w 100% Døem (15)
+#EXTINF:0,D≈ºem - Wiem na pewno wiem-nie nie kocham Ciƒô w 100% D≈ºem (15)
 https://stream.open.fm/15
 #EXTINF:0,Jerz Igor - Sowy w Kids - Muzyka & Ciekawostki (16)
 https://stream.open.fm/16
-#EXTINF:0,Czerwone Gitary - Ciπgle pada w Po Polsku 60/70 (17)
+#EXTINF:0,Czerwone Gitary - CiƒÖgle pada w Po Polsku 60/70 (17)
 https://stream.open.fm/17
 #EXTINF:0,REKLAMA - open.fm - REKLAMA (18)
 https://stream.open.fm/18
 #EXTINF:0,Gente De Zona feat. Marc Anthony - La Gozadera w Latino Hits (19)
 https://stream.open.fm/19
-#EXTINF:0,Pink Floyd - High Hopes w Ballady Wszech CzasÛw (20)
+#EXTINF:0,Pink Floyd - High Hopes w Ballady Wszech Czas√≥w (20)
 https://stream.open.fm/20
 #EXTINF:0,Wiszu - Rakieta w Disco Polo (21)
 https://stream.open.fm/21
@@ -597,9 +597,9 @@ https://stream.open.fm/21
 https://stream.open.fm/22
 #EXTINF:0,Method Man - What's Happenin' w Hip-Hop USA (23)
 https://stream.open.fm/23
-#EXTINF:0,Pezet - Nie zobaczysz ≥ez w Hip-Hop PL (24)
+#EXTINF:0,Pezet - Nie zobaczysz ≈Çez w Hip-Hop PL (24)
 https://stream.open.fm/24
-#EXTINF:0,Smokey Robinson & The Miracles - I Second That Emotion w Retro CafÈ (25)
+#EXTINF:0,Smokey Robinson & The Miracles - I Second That Emotion w Retro Caf√© (25)
 https://stream.open.fm/25
 #EXTINF:0,Iggy Azalea feat. Rita Ora - Black Widow w 500 R'n'b Hits (26)
 https://stream.open.fm/26
@@ -617,13 +617,13 @@ https://stream.open.fm/31
 https://stream.open.fm/32
 #EXTINF:0,Extrawelt - Schlusslicht w Chillout (33)
 https://stream.open.fm/33
-#EXTINF:0,Kodaline - Worth It w Alt CafÈ (34)
+#EXTINF:0,Kodaline - Worth It w Alt Caf√© (34)
 https://stream.open.fm/34
 #EXTINF:0,Kult - Pot i kreff w 100% Kazik (35)
 https://stream.open.fm/35
 #EXTINF:0,Sonbird - Wodospady w Alt PL (36)
 https://stream.open.fm/36
-#EXTINF:0,Hanna Banaszak - W moim magicznym domu w Kraina £agodnoúci (37)
+#EXTINF:0,Hanna Banaszak - W moim magicznym domu w Kraina ≈Åagodno≈õci (37)
 https://stream.open.fm/37
 #EXTINF:0,Vangelis - Chariots of Fire w Muzyka Filmowa (38)
 https://stream.open.fm/38
@@ -637,31 +637,31 @@ https://stream.open.fm/41
 https://stream.open.fm/42
 #EXTINF:0,Jet - Are You Gonna Be My Girl w Alt Classic (43)
 https://stream.open.fm/43
-#EXTINF:0,Budka Suflera - CieÒ wielkiej gÛry w Polski Rock Classic (45)
+#EXTINF:0,Budka Suflera - Cie≈Ñ wielkiej g√≥ry w Polski Rock Classic (45)
 https://stream.open.fm/45
 #EXTINF:0,Big Brother & The Holding Company - Piece of My Heart w Classic Hits (46)
 https://stream.open.fm/46
-#EXTINF:0,Growbox - MiÍso z grilla w 100% O.S.T.R. (47)
+#EXTINF:0,Growbox - Miƒôso z grilla w 100% O.S.T.R. (47)
 https://stream.open.fm/47
-#EXTINF:0,Mrozu - Aura w Ladies CafÈ (48)
+#EXTINF:0,Mrozu - Aura w Ladies Caf√© (48)
 https://stream.open.fm/48
 #EXTINF:0,Centrum - Hej, hej, hej w Disco Polo Classic (49)
 https://stream.open.fm/49
 #EXTINF:0,Tina Turner - Private Dancer w Classic Party (50)
 https://stream.open.fm/50
-#EXTINF:0,Odg≥osy natury - WieczÛr w lesie w Odg≥osy Natury (52)
+#EXTINF:0,Odg≈Çosy natury - Wiecz√≥r w lesie w Odg≈Çosy Natury (52)
 https://stream.open.fm/52
-#EXTINF:0,Playboys - Kocham ciÍ ot tak w Top 20 Disco Polo (53)
+#EXTINF:0,Playboys - Kocham ciƒô ot tak w Top 20 Disco Polo (53)
 https://stream.open.fm/53
 #EXTINF:0,Rammstein - Du Hast (Single Version) w 500 Heavy Hits (54)
 https://stream.open.fm/54
 #EXTINF:0,Interpol - Evil w 500 Alternative Hits (55)
 https://stream.open.fm/55
-#EXTINF:0,Exaited - MyúlÍ o tobie w Disco Polo Freszzz (57)
+#EXTINF:0,Exaited - My≈õlƒô o tobie w Disco Polo Freszzz (57)
 https://stream.open.fm/57
 #EXTINF:0,Madonna - Frozen w Gwiazdy (58)
 https://stream.open.fm/58
-#EXTINF:0,Cymes Kapela - ZarzucÍ p≥aszcz w Biesiada (59)
+#EXTINF:0,Cymes Kapela - Zarzucƒô p≈Çaszcz w Biesiada (59)
 https://stream.open.fm/59
 #EXTINF:0,Sting - Fields of Gold w Smooth Jazz (60)
 https://stream.open.fm/60
@@ -669,35 +669,35 @@ https://stream.open.fm/60
 https://stream.open.fm/61
 #EXTINF:0,Metallica - Moth Into Flame w 100% Metallica (62)
 https://stream.open.fm/62
-#EXTINF:0,JubÎl - Blue Jeans w 100% Hits (64)
+#EXTINF:0,Jub√´l - Blue Jeans w 100% Hits (64)
 https://stream.open.fm/64
 #EXTINF:0,Robin Schulz feat. Erika Sirola - Speechless w Fitness (65)
 https://stream.open.fm/65
-#EXTINF:0,Duo Fenix - Siedem zmys≥Ûw w Biesiada ålπska (66)
+#EXTINF:0,Duo Fenix - Siedem zmys≈Ç√≥w w Biesiada ≈ölƒÖska (66)
 https://stream.open.fm/66
 #EXTINF:0,Jordi Saval & Les Concert Des Nations - L'arabesque w Muzyka Klasyczna (67)
 https://stream.open.fm/67
 #EXTINF:0,Hugeative - 4our w Dubstep (68)
 https://stream.open.fm/68
-#EXTINF:0,Wiz Khalifa feat. Charlie Puth - See You Again w DzieÒ Dobry! (69)
+#EXTINF:0,Wiz Khalifa feat. Charlie Puth - See You Again w Dzie≈Ñ Dobry! (69)
 https://stream.open.fm/69
-#EXTINF:0,Muzyka do g≥Íbokiego snu - åpij spokojnie (åpiew ptakÛw) w Muzyka do snu (70)
+#EXTINF:0,Muzyka do g≈Çƒôbokiego snu - ≈öpij spokojnie (≈öpiew ptak√≥w) w Muzyka do snu (70)
 https://stream.open.fm/70
 #EXTINF:0,Mika - Relax (Take It Easy) w 00s Hits (72)
 https://stream.open.fm/72
-#EXTINF:0,Pidøama Porno - Bon ton na ostrzu noøa w 100% Grabaø (73)
+#EXTINF:0,Pid≈ºama Porno - Bon ton na ostrzu no≈ºa w 100% Graba≈º (73)
 https://stream.open.fm/73
 #EXTINF:0,The Avener - Fade Out Lines w Dobranoc (74)
 https://stream.open.fm/74
 #EXTINF:0,Alexia - Uh La La La w Summer Hits (75)
 https://stream.open.fm/75
-#EXTINF:0,Coldplay - Hypnotised w Crema CafÈ (76)
+#EXTINF:0,Coldplay - Hypnotised w Crema Caf√© (76)
 https://stream.open.fm/76
 #EXTINF:0,30 Seconds to Mars - Beautiful Lie w Rocks (77)
 https://stream.open.fm/77
 #EXTINF:0,Dezerter - Dolina Lalek w Punk Rock (78)
 https://stream.open.fm/78
-#EXTINF:0,Marek BiliÒski - Dom w Dolinie Mgie≥ w Po Polsku 80 (79)
+#EXTINF:0,Marek Bili≈Ñski - Dom w Dolinie Mgie≈Ç w Po Polsku 80 (79)
 https://stream.open.fm/79
 #EXTINF:0,Zayn - Sour Diesel w 100% One Direction (80)
 https://stream.open.fm/80
@@ -721,9 +721,9 @@ https://stream.open.fm/94
 https://stream.open.fm/95
 #EXTINF:0,Ellie Goulding - Power w Top 20 Pop (96)
 https://stream.open.fm/96
-#EXTINF:0,Micha≥ Szczygie≥ - Tak jak chcÍ w Top 20 PL (97)
+#EXTINF:0,Micha≈Ç Szczygie≈Ç - Tak jak chcƒô w Top 20 PL (97)
 https://stream.open.fm/97
-#EXTINF:0,JWP/BC - A nie mÛwi≥em w Top 20 Hip-Hop (98)
+#EXTINF:0,JWP/BC - A nie m√≥wi≈Çem w Top 20 Hip-Hop (98)
 https://stream.open.fm/98
 #EXTINF:0,Grey Daze - Soul Song w Top 20 Rock (99)
 https://stream.open.fm/99
@@ -739,15 +739,15 @@ https://stream.open.fm/103
 https://stream.open.fm/104
 #EXTINF:0,Metrik feat. Elisabeth Troy - Chasing Sunrise w Beats & Bass (106)
 https://stream.open.fm/106
-#EXTINF:0,WWO feat. Dekadencja - Uwaøaj jak taÒczysz w Hip-Hop Klasyk (107)
+#EXTINF:0,WWO feat. Dekadencja - Uwa≈ºaj jak ta≈Ñczysz w Hip-Hop Klasyk (107)
 https://stream.open.fm/107
 #EXTINF:0,Metallica - Seek & Destroy w Classic Metal (108)
 https://stream.open.fm/108
 #EXTINF:0,Coldplay - Magic w Praca (109)
 https://stream.open.fm/109
-#EXTINF:0,Maryla Rodowicz - Ale to juø by≥o w Wesele (110)
+#EXTINF:0,Maryla Rodowicz - Ale to ju≈º by≈Ço w Wesele (110)
 https://stream.open.fm/110
-#EXTINF:0,Ania Dπbrowska - Porady na zdrady (Dreszcze) w Tylko Polskie Przeboje (111)
+#EXTINF:0,Ania DƒÖbrowska - Porady na zdrady (Dreszcze) w Tylko Polskie Przeboje (111)
 https://stream.open.fm/111
 #EXTINF:0,James TW - Black & Blue w Relaks (112)
 https://stream.open.fm/112
@@ -767,7 +767,7 @@ https://stream.open.fm/119
 https://stream.open.fm/120
 #EXTINF:0,Meghan Trainor feat. John Legend - Like I'm Gonna Lose You w Love (121)
 https://stream.open.fm/121
-#EXTINF:0,Jorrgus - Uzaleøni≥aú mnie w Summer Polo (122)
+#EXTINF:0,Jorrgus - Uzale≈ºni≈Ça≈õ mnie w Summer Polo (122)
 https://stream.open.fm/122
 #EXTINF:0,Cyndi Lauper - Girls Just Wanna Have Fun w Summer Classic (125)
 https://stream.open.fm/125

@@ -2,11 +2,15 @@
 #EXTINF:-1,Radio Polmax FM
 http://stream.zeno.fm/1gg3kbnzbceuv
 #EXTINF:-1,Radio Polmax FM aac +
-http://stream.zeno.fm/0mbzxuz0ufeuv
+http://stream.zeno.fm/27ufqar63d0uv
 #EXTINF:-1,Radio Polmax 2
 http://stream.zeno.fm/szxcunxzbceuv
 #EXTINF:-1,Radio Polmax 2 aac +
 http://stream.zeno.fm/qe4uq4wwrceuv
+#EXTINF:-1,Radio Polmax 3
+http://stream.zeno.fm/favya1hd8yzuv
+#EXTINF:-1,Radio Polmax 3 aac+
+http://stream.zeno.fm/2p4yw9sd8yzuv
 #EXTINF:-1,Radio Misiek - Biesiada
 http://stream.zeno.fm/5hfdntgf8yzuv
 #EXTINF:-1,Radio Misiek aac +
@@ -19,6 +23,8 @@ http://stream.zeno.fm/gmzwr46m7yzuv
 http://stream.zeno.fm/xwvpgfvk7yzuv
 #EXTINF:-1,Radio 5
 http://stream.zeno.fm/9921m8gf8yzuv
+#EXTINF:-1,VOX FM
+https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8
 #EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal CLUB
 http://play.radioftb.net:8000
 #EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3

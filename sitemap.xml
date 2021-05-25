@@ -8,49 +8,65 @@
 
 
 <url>
-  <loc>https://polmaxfm.ga/</loc>
-  <lastmod>2020-08-18T05:57:25+00:00</lastmod>
+  <loc>http://polmaxfm.ga/</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://polmaxfm.ga/polmax.html</loc>
-  <lastmod>2020-08-18T05:57:25+00:00</lastmod>
+  <loc>http://polmaxfm.ga/menu.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://polmaxfm.ga/polmax2.html</loc>
-  <lastmod>2020-08-18T05:57:25+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://polmaxfm.ga/polmax.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://polmaxfm.ga/misiek.html</loc>
-  <lastmod>2020-08-18T05:57:25+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://polmaxfm.ga/polmax2.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://polmaxfm.ga/aniolek.html</loc>
-  <lastmod>2020-08-18T05:57:25+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://polmaxfm.ga/polmax3.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://polmaxfm.ga/zabawa.html</loc>
-  <lastmod>2020-08-18T05:57:25+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://polmaxfm.ga/misiek.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://polmaxfm.ga/radio5.html</loc>
-  <lastmod>2020-08-18T05:57:25+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://polmaxfm.ga/aniolek.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://polmaxfm.ga/radio3.html</loc>
-  <lastmod>2020-08-18T05:57:25+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://polmaxfm.ga/zabawa.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://polmaxfm.ga/polmax-koledy.html</loc>
-  <lastmod>2020-08-18T05:57:25+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://polmaxfm.ga/radyjko5.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>http://polmaxfm.ga/polmax-koledy.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://polmaxfm.ga/discoradio.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://polmaxfm.ga/voxfm.html</loc>
+  <lastmod>2021-05-25T19:28:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
 
 </urlset>

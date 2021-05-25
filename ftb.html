@@ -1,0 +1,182 @@
+﻿<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Radio FTB</title>
+<meta name="description" content="Radio FTB" />
+<meta name="keywords" content="radio muzyka dance disco polo" />
+<link href="images/giphy.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+
+</head>
+
+
+
+<body>
+
+<img src="images/pexels.jpg" style="z-index:-100; position:fixed; left:0%; right:0%; top:0%; bottom:0%; width:100%; height:100%">
+<center>
+
+<br>
+<!--  menu początek -->
+<script>
+function includeHTML() {
+  var z, i, elmnt, file, xhttp;
+  /*loop through a collection of all HTML elements:*/
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    /*search for elements with a certain atrribute:*/
+    file = elmnt.getAttribute("w3-include-html");
+    if (file) {
+      /*make an HTTP request using the attribute value as the file name:*/
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          /*remove the attribute, and call this function once more:*/
+          elmnt.removeAttribute("w3-include-html");
+          includeHTML();
+        }
+      }      
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      /*exit the function:*/
+      return;
+    }
+  }
+};
+</script>
+
+<div w3-include-html="menu.html"></div> 
+<script>
+includeHTML();
+</script>
+
+<!--  menu tu koniec -->
+
+
+
+
+
+
+
+
+
+
+<div class="panel12">
+
+
+
+<center><font size="5" color="yellow">
+
+<br><div class="panel10"><p>
+Radio FTB - kanał disco polo</p></div>
+
+<br>
+<br>
+<img src="images/logo-ftb.png" width="270">
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+<audio controls autoplay>
+<source src="http://play.radioftb.net:8022/stream" type="audio/mpeg"></source>
+</audio>
+
+<br>
+<br>
+<br>
+słuchaj w winampie
+<br>
+albo w swoim odtwarzaczu
+<br>
+<br><a href="https://radioftb.net/disco.m3u"><img src="images/winamp.png" width="150" height="150">
+<br><font color="white">
+https://radioftb.net/disco.m3u</font></a>
+<br>
+<br>
+link bezpośredni do transmisji
+<br>
+<br>
+<a href="http://play.radioftb.net:8022/stream"><font color="white">http://play.radioftb.net:8022/stream</font></a>
+<br>
+<br>
+
+
+
+
+
+
+
+<img src="images/szlaczek.png"><img src="images/szlaczek.png">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+<br><div class="panel10"><p>
+Radio FTB - kanał Club</p></div>
+<br>
+<br>
+
+<audio controls>
+  <source src="http://play.radioftb.net:8000/stream">
+</audio>
+
+<br>
+<br>
+<br>
+słuchaj w winampie
+<br>
+albo w swoim odtwarzaczu
+<br>
+<br><a href="https://radioftb.net/radio_ftb.m3u"><img src="images/winamp.png" width="150" height="150">
+<br><font color="white">
+https://radioftb.net/radio_ftb.m3u</font></a>
+<br>
+<br>
+link bezpośredni do transmisji
+<br>
+<br>
+<a href="http://play.radioftb.net:8000/stream"><font color="white">http://play.radioftb.net:8000/stream</font></a>
+<br>
+<br>
+<br>
+
+
+<img src="images/pies-hilary.jpg" width="70%"></a>
+<br>
+<br>
+<br><div class="panel10"><p>
+Radio FTB</p></div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</font>
+</center>
+
+
+
+
+</div>
+</body>
+</html>

@@ -1,2 +1,3 @@
 ﻿User-agent: *
 Allow: /
+Sitemap: http://polmaxfm.ga/sitemap.xml

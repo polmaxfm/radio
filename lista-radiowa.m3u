@@ -23,26 +23,45 @@ http://stream.zeno.fm/gmzwr46m7yzuv
 http://stream.zeno.fm/xwvpgfvk7yzuv
 #EXTINF:-1,Radio 5
 http://stream.zeno.fm/9921m8gf8yzuv
+
+
+
+
+
+
+
 #EXTINF:-1,VOX FM
 https://ext03.ic.smcdn.pl/3990-1.mp3
-#EXTINF:-1,VOX FM m3u8
-https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal CLUB
-http://play.radioftb.net:8000
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3
-http://play.radioftb.net:8020/stream
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal DISCO POLO
-http://play.radioftb.net:8022
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3
-http://play.radioftb.net:8021/stream
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal FLASH FM
-http://play.radioftb.net:8008
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3
-http://play.radioftb.net:8026/stream
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal TRANCE
-http://play.radioftb.net:8028/stream
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal RETRO DJ
-http://play.radioftb.net:8016
+#EXTINF:-1,Vox Fm
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/vox-fm
+#EXTINF:-1,Discoradio DAB +
+http://stream.rcs.revma.com/cvswvmyewzzuv
+#EXTINF:-1,Radio EXPRESS FM DAB +
+http://stream.rcs.revma.com/yx6cub73kwzuv
+#EXTINF:-1,Mega Radio DAB +
+http://stream.rcs.revma.com/q18ty3qhwzzuv
+#EXTINF:-1,Radio Folk Kielce DAB +
+http://gra.radio.kielce.pl:8000/frmp3
+#EXTINF:-1,Italia Dance Music
+http://91.121.118.99:8032/stream2
+#EXTINF:-1,Radio Alex Zakopane
+http://proxima.shoutca.st:9045/stream
+#EXTINF:-1,Technobase FM
+https://listener2.mp3.tb-group.fm/tb.mp3
+#EXTINF:-1,Raute Musik Club
+http://club-high.rautemusik.fm
+#EXTINF:-1,Raute Musik
+http://club-high.rautemusik.fm/
+#EXTINF:-1,http://s1.slotex.pl:7022/
+http://s1.slotex.pl:7022/
+#EXTINF:-1,http://s1.slotex.pl:7294/stream/1/
+http://s1.slotex.pl:7294/stream/1/
+#EXTINF:-1,http://stream.slonskyradio.eu
+http://stream.slonskyradio.eu
+#EXTINF:-1,http://stream10.hosterion.pl:8066/stream
+http://stream10.hosterion.pl:8066/stream
+#EXTINF:-1,Radio Wesole Slonzoki--- Prezyntery majom Frei --
+http://s1.radiohost.pl:8126
 #EXTINF:-1,DiscoParty.pl - Kanal Disco
 http://s1.discoparty.pl:7432
 #EXTINF:-1,Portal Disco Polo - MediaDisco.pl
@@ -59,53 +78,7 @@ http://radiopolo.net:9000/
 http://radiopolo.net:9000/
 #EXTINF:-1,KANAL MUZYKA HITY (128kbps, STEREO, MP3)
 http://radiopolo.net:9000/
-#EXTINF:-1,---===RADIOTP
-D:\pliki\Radio 2020\radio\---===RADIOTP.pl===---
-#EXTINF:-1,---===Serwer MP3 128kbps===---
-D:\pliki\Radio 2020\radio\---===Serwer MP3 128kbps===---
-#EXTINF:0,RadioTP - 128kbps MP3
-http://radiotp.pl:8058/stream
-#EXTINF:0,RadioTP - 128kbps MP3
-http://radiotp.pl:8058/stream
-#EXTINF:0,RadioTP - 128kbps MP3
-http://radiotp.pl:8058/stream
-#EXTINF:0,RadioTP - 128kbps MP3
-http://radiotp.pl:8058/stream
-#EXTINF:-1,Jebroer DJ Paul Elstak - Kind eines Teufels (club)
-http://club-high.rautemusik.fm/
-#EXTINF:-1,#Musik.Club
-http://club-high.rautemusik.fm
-#EXTINF:-1,(#1 - 85/160) RMI - Euro Disco
-http://188.165.195.176:8034/stream
-#EXTINF:-1,Radio Silesia - Gramy to co lubisz
-http://s1.slotex.pl:7350/;
-#EXTINF:0,Slaskie Radio www.slaskieradio.com
-http://sc.slaskieradio.com:8180
-#EXTINF:0,Slaskie Radio www.slaskieradio.com - lite stream
-http://sc2.slaskieradio.com:8052
-#EXTINF:-1,http://s1.slotex.pl:7294/stream/1/
-http://s1.slotex.pl:7294/stream/1/
-#EXTINF:-1,http://stream.slonskyradio.eu
-http://stream.slonskyradio.eu
-#EXTINF:-1,Radio Wesole Slonzoki--- Prezyntery majom Frei --
-http://s1.radiohost.pl:8126
-#EXTINF:-1,http://s1.slotex.pl:7022/
-http://s1.slotex.pl:7022/
-#EXTINF:-1,Radio Alex Zakopane
-http://proxima.shoutca.st:9045/stream
-#EXTINF:-1,Axel - Kochała Tańczyć (Disco Radio - zawsze w rytmie!)
-http://www.discoradio.net/stream
-#EXTINF:-1,Loona - Latino Lover (Radio EXPRESS FM)
-http://radioexpress.pl/stream1
-#EXTINF:-1,Julia Doszna - Tam na Lemkowyni (Radio Folk)
-http://gra.radio.kielce.pl:8000/frmp3
-#EXTINF:-1,(#1 - 20/200) Italia Dance Music
-http://91.121.118.99:8032/stream2
-#EXTINF:-1,Dj Bobo - Everybody  (Mega Radio)
-http://megaradio.com.pl/stream
-#EXTINF:-1,http://stream4.nadaje.com:14572/fallback
-http://stream4.nadaje.com:14572/fallback
-#EXTINF:-1,Radio AM AndrychĂłw
+#EXTINF:-1,Radio AM Andrychów
 http://s1.slotex.pl:7424/stream
 #EXTINF:-1,Radio Lipsko
 http://s1.slotex.pl:7298/;
@@ -143,8 +116,78 @@ http://djmixes.radioparty.pl:8035
 http://re2k.radioparty.pl:8000
 #EXTINF:-1,Internetowe radio RadioParty.pl - KANAL ENERGY 2000
 http://energy2000.radioparty.pl:8005
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal CLUB
+http://play.radioftb.net:8000
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3
+http://play.radioftb.net:8020/stream
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal DISCO POLO
+http://play.radioftb.net:8022
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3
+http://play.radioftb.net:8021/stream
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal FLASH FM
+http://play.radioftb.net:8008
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3
+http://play.radioftb.net:8026/stream
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal TRANCE
+http://play.radioftb.net:8028/stream
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal RETRO DJ
+http://play.radioftb.net:8016
+#EXTINF:0,RadioTP - 128kbps MP3
+http://radiotp.pl:8058/stream
+#EXTINF:0,RadioTP - 128kbps MP3
+http://radiotp.pl:8058/stream
+#EXTINF:0,RadioTP - 128kbps MP3
+http://radiotp.pl:8058/stream
+#EXTINF:0,RadioTP - 128kbps MP3
+http://radiotp.pl:8058/stream
+#EXTINF:-1,Radio Silesia - Gramy to co lubisz
+http://s1.slotex.pl:7350/;
+#EXTINF:-1,RMF Classic
+http://195.150.20.7:80/rmf_classic
+#EXTINF:-1,RMF Classic
+http://80.48.65.99:80/rmf_classic
+#EXTINF:-1,RMF Classic
+http://31.192.216.10:80/rmf_classic
+#EXTINF:-1,RMF Classic
+http://31.192.216.8:80/rmf_classic
+#EXTINF:-1,RMF Classic
+http://80.48.65.98:/rmf_classic
+#EXTINF:-1,RMF Classic
+http://31.192.216.8:80/rmf_classic
+#EXTINF:-1,RMF Classic
+http://80.48.65.98:/rmf_classic
+#EXTINF:-1,RMF Classic
+http://31.192.216.8:80/rmf_classic
+#EXTINF:-1,RMF Classic
+http://31.192.216.7:80/rmf_classic
+#EXTINF:-1,RMF Classic
+http://195.150.20.9:80/rmf_classic
+#EXTINF:-1,RMF FM
+http://31.192.216.10:80/rmf_fm
+#EXTINF:-1,RMF FM
+http://31.192.216.8:80/rmf_fm
+#EXTINF:-1,RMF FM
+http://80.48.65.98:/rmf_fm
+#EXTINF:-1,RMF FM
+http://80.48.65.98:/rmf_fm
+#EXTINF:-1,RMF FM
+http://31.192.216.10:80/rmf_fm
+#EXTINF:-1,RMF FM
+http://195.150.20.8:80/rmf_fm
+#EXTINF:-1,RMF FM
+http://31.192.216.8:80/rmf_fm
+#EXTINF:-1,RMF FM
+http://80.48.65.99:80/rmf_fm
+#EXTINF:-1,RMF FM
+http://80.48.65.99:80/rmf_fm
+#EXTINF:-1,RMF FM
+http://31.192.216.6:80/rmf_fm
+#EXTINF:-1,https://rs201-krk-cyfronet.rmfstream.pl/RMFMAXXX48
+https://rs201-krk-cyfronet.rmfstream.pl/RMFMAXXX48
 #EXTINF:-1,http://88.199.169.10:7500/
 http://88.199.169.10:7500/
+#EXTINF:-1,https://radio.stream.smcdn.pl/icradio-p/1240-1.aac/playlist.m3u8
+https://radio.stream.smcdn.pl/icradio-p/1240-1.aac/playlist.m3u8
 #EXTINF:-1,TechnoBase.FM - MP3 192k - High Quality - (DSL/Cable)
 http://listen.technobase.fm/tunein-mp3-pls
 #EXTINF:-1,TechnoBase.FM - AACplus 96k - Very High Quality - (DSL/Cable)
@@ -155,42 +198,28 @@ http://listen.technobase.fm/tunein-aacisdn-pls
 http://sluchaj.twojapolskastacja.pl:8068/
 #EXTINF:-1,http://51.77.59.65:8100/stream.mp3
 http://51.77.59.65:8100/stream.mp3
-#EXTINF:-1,http://waw02-03.ic.smcdn.pl:8000/t049-1.mp3
-http://waw02-03.ic.smcdn.pl:8000/t049-1.mp3
-#EXTINF:-1,http://waw02-03.ic.smcdn.pl:8000/t032-1.mp3
-http://waw02-03.ic.smcdn.pl:8000/t032-1.mp3
-#EXTINF:-1,http://waw02-03.ic.smcdn.pl:8000/t050-1.aac
-http://waw02-03.ic.smcdn.pl:8000/t050-1.aac
-#EXTINF:-1,http://waw02-03.ic.smcdn.pl:8000/t062-1.mp3
-http://waw02-03.ic.smcdn.pl:8000/t062-1.mp3
-#EXTINF:-1,http://waw02-03.ic.smcdn.pl:8000/t068-1.mp3
-http://waw02-03.ic.smcdn.pl:8000/t068-1.mp3
-#EXTINF:-1,Radio Freee - mp3
-http://streaming.radio.lublin.pl:8000/radiofreee
-#EXTINF:-1,Radio Freee - mp3
-http://streaming.radio.lublin.pl:8000/rf_mp3
-#EXTINF:-1,Radio Freee - aac
-http://streaming.radio.lublin.pl:8000/radiofreeeacp
-#EXTINF:-1,http://posluchaj.krz.pl/
-http://posluchaj.krz.pl/
-#EXTINF:-1,http://195.94.205.211/rm?MSWMExt=.asf
-http://195.94.205.211/rm?MSWMExt=.asf
-#EXTINF:-1,http://192.168.205.211:80/rm?MSWMExt=.asf
-http://192.168.205.211:80/rm?MSWMExt=.asf
-#EXTINF:-1,http://mel0101.cdn.eurozet.pl:8842/mel-ost.mp3
-http://mel0101.cdn.eurozet.pl:8842/mel-ost.mp3
+#EXTINF:-1,https://ext03.ic.smcdn.pl/3990-1.mp3
+https://ext03.ic.smcdn.pl/3990-1.mp3
+#EXTINF:-1,https://radio.stream.smcdn.pl/icradio-p/2130-1.aac/playlist.m3u8
+https://radio.stream.smcdn.pl/icradio-p/2130-1.aac/playlist.m3u8
+#EXTINF:-1,https://radio.stream.smcdn.pl/icradio-p/2230-1.aac/playlist.m3u8
+https://radio.stream.smcdn.pl/icradio-p/2230-1.aac/playlist.m3u8
+#EXTINF:-1,http://posluchaj.radiozamosc.pl
+http://posluchaj.radiozamosc.pl
 #EXTINF:-1,http://stream3.polskieradio.pl:8900/
 http://stream3.polskieradio.pl:8900/
 #EXTINF:-1,http://stream3.polskieradio.pl:8080/
 http://stream3.polskieradio.pl:8080/
 #EXTINF:-1,Radio FARA
 http://62.133.128.22:8000/relay
-#EXTINF:0,Radio Jard BiaĹ‚ystok
+#EXTINF:0,Radio Jard Białystok
 http://online.jard.pl:8744/jard1
 #EXTINF:-1,Radio Jasna Gora 100,6 FM Czestochowa
 http://online.radiojasnagora.pl:8000/rjg
 #EXTINF:-1,Radio KASZEBE
 http://stream2.nadaje.com:8060/;
+#EXTINF:-1,https://gra.radio.kielce.pl:8443/rk1
+https://gra.radio.kielce.pl:8443/rk1
 #EXTINF:-1,Radio Lublin - mp3
 http://streaming.radio.lublin.pl:8000/128k
 #EXTINF:-1,Radio Lublin - mp3
@@ -201,18 +230,18 @@ http://streaming.radio.lublin.pl:8000/rl_mp3
 http://streaming.radio.lublin.pl:8000/64k
 #EXTINF:-1,(Radio Niepokalanow)
 http://88.199.169.10:7600/rn.mp3
-#EXTINF:-1,Radio OpatĂłw
-http://stream2.nadaje.com:11144/;
-#EXTINF:-1,http://stream4.nadaje.com:14572/stream.mp3
-http://stream4.nadaje.com:14572/stream.mp3
+#EXTINF:-1,Radio Opatów
+http://stream2.nadaje.com:11144/;stream
+#EXTINF:-1,https://stream.radiopiekary.pl/?1622500458131
+https://stream.radiopiekary.pl/?1622500458131
 #EXTINF:-1,http://stream.plus.legnica.pl:8000/radioplus
 http://stream.plus.legnica.pl:8000/radioplus
 #EXTINF:-1,http://radiostream.pl/tuba38-1.mp3
 http://radiostream.pl/tuba38-1.mp3
 #EXTINF:-1,Rekord Radom
 http://stream2.nadaje.com:8108/;
-#EXTINF:-1,http://radiointernetowe.net:9600/live128.mp3
-http://radiointernetowe.net:9600/live128.mp3
+#EXTINF:-1,https://streaming.g-news.pl:8040/rzeszow
+https://streaming.g-news.pl:8040/rzeszow
 #EXTINF:-1,Radio Silesia 96.2 FM
 http://s1.slotex.pl:7926/;
 #EXTINF:-1,http://stream2.nadaje.com:8012/
@@ -223,32 +252,16 @@ http://62.133.128.18:8100/;
 http://62.133.128.18:8040/;
 #EXTINF:-1,RADIO WRZESNIA - ZAPRASZAMY
 http://s1.slotex.pl:7446/;
-#EXTINF:-1,http://zet-net-01.cdn.eurozet.pl:8400/
-http://zet-net-01.cdn.eurozet.pl:8400/
+#EXTINF:-1,https://n-6-12.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
+https://n-6-12.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
+#EXTINF:-1,RadioFreee 89.9FM
+https://streaming.radio.lublin.pl:8843/radiofreeeacp
+#EXTINF:-1,Radio Maryja
+https://radiomaryja.fastcast4u.com/tunein/radiomaryja.pls
 #EXTINF:-1,http://streaming.tvs.pl:8010
 http://streaming.tvs.pl:8010
-#EXTINF:-1,lecimy z szaloną kasią
-http://s1.slotex.pl:7396/;
-#EXTINF:-1,http://s1.slotex.pl:7288/
-http://s1.slotex.pl:7288/
-#EXTINF:-1,Relaxikowo
-http://s1.slotex.pl:7368/;
-#EXTINF:-1,http://s1.slotex.pl:7108
-http://s1.slotex.pl:7108
-#EXTINF:-1,http://s1.slotex.pl:7138/stream/1/
-http://s1.slotex.pl:7138/stream/1/
-#EXTINF:-1,Autopilot Krzysztofa
-http://s2.panelradiowy.pl:10116/;
-#EXTINF:-1,Klub Mix
-http://s1.slotex.pl:7248/;
-#EXTINF:-1,Maratonik Zenka
-http://s1.slotex.pl:7308/;
-#EXTINF:-1,http://91.232.4.33:9454/Stream1
-http://91.232.4.33:9454/Stream1
 #EXTINF:-1,DAMISMANIA DJ RADIO
 http://s1.slotex.pl:7512/;
-#EXTINF:-1,http://s1.slotex.pl:7184/stream/1/
-http://s1.slotex.pl:7184/stream/1/
 #EXTINF:-1,Pilot
 http://s1.slotex.pl:7134/;
 #EXTINF:-1,DiSCO PILOT
@@ -265,298 +278,254 @@ http://s1.slotex.pl:8880/;
 http://s1.slotex.pl:7120/;
 #EXTINF:-1,MUZYCZNE RADIO TESIA
 http://s1.slotex.pl:7514/;
-#EXTINF:-1,Gramy dla Was
-http://s1.slotex.pl:7954/;
-#EXTINF:-1,Party-Night
-http://s1.slotex.pl:7480/;
 #EXTINF:-1,...::gramy na maxa:::..
 http://s1.slotex.pl:7146/;
-#EXTINF:-1,Przytulne Fm
-http://s1.slotex.pl:7110/;
-#EXTINF:-1,RadioPuszekPL
-http://s1.slotex.pl:7214/;
-#EXTINF:-1,RMF FM
-http://31.192.216.10:80/rmf_fm
-#EXTINF:-1,RMF FM
-http://80.48.65.98:/rmf_fm
-#EXTINF:-1,RMF FM
-http://31.192.216.8:80/rmf_fm
-#EXTINF:-1,RMF FM
-http://31.192.216.6:80/rmf_fm
-#EXTINF:-1,RMF MAXXX
-http://80.48.65.98:/rmf_maxxx
-#EXTINF:-1,RMF MAXXX
-http://80.48.65.98:/rmf_maxxx
-#EXTINF:-1,RMF MAXXX
-http://80.48.65.98:/rmf_maxxx
-#EXTINF:-1,RMF MAXXX
-http://80.48.65.98:/rmf_maxxx
-#EXTINF:-1,RMF Classic
-http://80.48.65.99:80/rmf_classic
-#EXTINF:-1,RMF Classic
-http://31.192.216.7:80/rmf_classic
-#EXTINF:-1,Vox Fm
-https://waw01-04.ic.smcdn.pl/t049-1.mp3
-#EXTINF:-1,Wawa
-https://waw02-04.ic.smcdn.pl/t050-1.mp3
+#EXTINF:-1,lecimy z szalon� kasi�
+http://s1.slotex.pl:7396/;
+#EXTINF:-1,http://s1.slotex.pl:7288/
+http://s1.slotex.pl:7288/
+#EXTINF:-1,http://s1.slotex.pl:7108
+http://s1.slotex.pl:7108
+#EXTINF:-1,http://s1.slotex.pl:7138/stream/1/
+http://s1.slotex.pl:7138/stream/1/
+#EXTINF:-1,Autopilot Krzysztofa
+http://s2.panelradiowy.pl:10116/;
+#EXTINF:-1,Klub Mix
+http://s1.slotex.pl:7248/;
+#EXTINF:-1,http://91.232.4.33:9454/Stream1
+http://91.232.4.33:9454/Stream1
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1,Eska Warszawa
-https://waw01-03.ic.smcdn.pl/t042-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-warszawa
+#EXTINF:-1,Wawa
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/wawa
 #EXTINF:-1,Eska Malopolska Zakopane
-https://waw01-02.ic.smcdn.pl/t076-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-malopolska-zakopane
 #EXTINF:-1,Eska Rock
-https://waw01-03.ic.smcdn.pl/t041-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-rock
 #EXTINF:-1,Eska Wroclaw
-https://waw02-04.ic.smcdn.pl/t044-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-wroclaw
 #EXTINF:-1,Eska Poznan
-https://waw01-04.ic.smcdn.pl/t043-1.mp3
-#EXTINF:-1,Vox Disco Polo
-https://waw01-03.ic.smcdn.pl/t017-1.mp3
-#EXTINF:-1,Eska Rzeszow
-https://waw02-03.ic.smcdn.pl/t069-1.mp3
-#EXTINF:-1,Special Polski Hip Hop Bez Cenzury
-https://waw02-04.ic.smcdn.pl/t100-1.mp3
-#EXTINF:-1,Eska Dance
-https://waw01-04.ic.smcdn.pl/t012-1.mp3
-#EXTINF:-1,Eska Impreska
-https://waw01-04.ic.smcdn.pl/t005-1.mp3
-#EXTINF:-1,Eska Goraca 100
-https://waw01-04.ic.smcdn.pl/t039-1.mp3
-#EXTINF:-1,Eska Do Pracy
-https://waw01-03.ic.smcdn.pl/t014-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-poznan
 #EXTINF:-1,Impreza
-https://waw02-03.ic.smcdn.pl/t005-1.mp3
-#EXTINF:-1,Eska Krakow
-https://waw02-01.ic.smcdn.pl/t046-1.mp3
-#EXTINF:-1,Eska Lodz
-https://waw01-04.ic.smcdn.pl/t040-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/impreza
+#EXTINF:-1,Eska Rzeszow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-rzeszow
+#EXTINF:-1,Special Polski Hip Hop Bez Cenzury
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/special-polski-hip-hop-bez-cenzury
+#EXTINF:-1,Vox Disco Polo
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/vox-disco-polo
+#EXTINF:-1,Eska Dance
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-dance
 #EXTINF:-1,Eska Grudziadz
-https://waw02-03.ic.smcdn.pl/t081-1.mp3
-#EXTINF:-1,Eska Slask
-https://waw02-02.ic.smcdn.pl/t047-1.mp3
-#EXTINF:-1,Radio Plus Krakow
-https://waw01-04.ic.smcdn.pl/t086-1.mp3
-#EXTINF:-1,Eska Goraca 20
-https://waw02-03.ic.smcdn.pl/t019-1.mp3
-#EXTINF:-1,Wawa Disco Polo
-https://waw02-03.ic.smcdn.pl/t017-1.mp3
-#EXTINF:-1,Vox Impreza W Rytmie Hitow
-https://waw01-03.ic.smcdn.pl/t035-1.mp3
-#EXTINF:-1,Eska Opole
-https://waw01-01.ic.smcdn.pl/t061-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-grudziadz
+#EXTINF:-1,Eska Krakow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-krakow
+#EXTINF:-1,Eska Impreska
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-impreska
+#EXTINF:-1,Eska Goraca 100
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-goraca-100
 #EXTINF:-1,Radio Plus
-https://waw01-04.ic.smcdn.pl/t051-1.mp3
-#EXTINF:-1,Top Disco Polo
-https://waw01-03.ic.smcdn.pl/t037-1.mp3
-#EXTINF:-1,Vox 90
-https://waw02-02.ic.smcdn.pl/t090-1.mp3
-#EXTINF:-1,Eska Bydgoszcz
-https://waw02-04.ic.smcdn.pl/t054-1.mp3
-#EXTINF:-1,Eska Szczecin
-https://waw01-02.ic.smcdn.pl/t045-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/radio-plus
 #EXTINF:-1,Eska Rock Polska
-https://waw01-04.ic.smcdn.pl/t008-1.mp3
-#EXTINF:-1,Eska Active
-https://waw01-04.ic.smcdn.pl/t002-1.mp3
-#EXTINF:-1,Disco Polo Top40
-https://waw01-03.ic.smcdn.pl/t037-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-rock-polska
+#EXTINF:-1,Eska Do Pracy
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-do-pracy
+#EXTINF:-1,Radio Plus Krakow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/radio-plus-krakow
+#EXTINF:-1,Wawa Disco Polo
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/wawa-disco-polo
+#EXTINF:-1,Eska Slask
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-slask
+#EXTINF:-1,Eska Lodz
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-lodz
 #EXTINF:-1,Eska Trojmiasto
-https://waw01-02.ic.smcdn.pl/t048-1.mp3
-#EXTINF:-1,Zenek Martyniuk
-https://waw01-01.ic.smcdn.pl/t026-1.mp3
-#EXTINF:-1,Eska Club
-https://waw01-04.ic.smcdn.pl/t004-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-trojmiasto
+#EXTINF:-1,Disco Polo Top40
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/disco-polo-top40
+#EXTINF:-1,Eska Goraca 20
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-goraca-20
 #EXTINF:-1,Eska Bialystok
-https://waw02-03.ic.smcdn.pl/t053-1.mp3
-#EXTINF:-1,Eska Olsztyn
-https://waw01-03.ic.smcdn.pl/t060-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-bialystok
+#EXTINF:-1,Vox 90
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/vox-90
+#EXTINF:-1,Vox Impreza W Rytmie Hitow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/vox-impreza-w-rytmie-hitow
+#EXTINF:-1,Eska Szczecin
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-szczecin
+#EXTINF:-1,Eska Opole
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-opole
+#EXTINF:-1,Eska Bydgoszcz
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-bydgoszcz
+#EXTINF:-1,Eska Active
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-active
+#EXTINF:-1,Top Disco Polo
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/top-disco-polo
 #EXTINF:-1,Vox Bestlista
-https://waw02-01.ic.smcdn.pl/t087-1.mp3
-#EXTINF:-1,Eska Gorzow
-https://waw01-02.ic.smcdn.pl/t055-1.mp3
-#EXTINF:-1,Radio Plus Koszalin
-https://waw01-03.ic.smcdn.pl/t083-1.mp3
-#EXTINF:-1,Wawa Hity
-https://waw02-02.ic.smcdn.pl/t009-1.mp3
-#EXTINF:-1,Radio Plus Lodz
-https://waw02-04.ic.smcdn.pl/t082-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/vox-bestlista
 #EXTINF:-1,Radio Plus Lublin
-https://waw02-01.ic.smcdn.pl/t102-1.mp3
-#EXTINF:-1,Disco Polo Party
-https://waw02-01.ic.smcdn.pl/t017-1.mp3
-#EXTINF:-1,Eska Beskidy
-https://waw01-01.ic.smcdn.pl/t073-1.mp3
-#EXTINF:-1,Pop Ballads
-https://waw01-03.ic.smcdn.pl/t011-1.mp3
-#EXTINF:-1,Eska Rock Alternative
-https://waw01-01.ic.smcdn.pl/t015-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/radio-plus-lublin
+#EXTINF:-1,Wawa Hity
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/wawa-hity
+#EXTINF:-1,Eska Olsztyn
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-olsztyn
+#EXTINF:-1,Eska Gorzow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-gorzow
 #EXTINF:-1,Eska Lublin
-https://waw02-02.ic.smcdn.pl/t062-1.mp3
-#EXTINF:-1,Milosc W Rytmie Disco Polo
-https://waw02-02.ic.smcdn.pl/t098-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-lublin
 #EXTINF:-1,Eska Rock Kultowa Godzina
-https://waw02-02.ic.smcdn.pl/t013-1.mp3
-#EXTINF:-1,Eska Kalisz Ostrow
-https://waw02-02.ic.smcdn.pl/t066-1.mp3
-#EXTINF:-1,Eska Tarnow
-https://waw01-02.ic.smcdn.pl/t064-1.mp3
-#EXTINF:-1,Eska Belchatow
-https://waw01-02.ic.smcdn.pl/t052-1.mp3
-#EXTINF:-1,Club
-https://waw01-02.ic.smcdn.pl/t004-1.mp3
-#EXTINF:-1,Classic Party
-https://waw02-04.ic.smcdn.pl/t093-1.mp3
-#EXTINF:-1,Radio Plus Szczecin
-https://waw01-02.ic.smcdn.pl/t085-1.mp3
-#EXTINF:-1,Eska Koszalin
-https://waw02-03.ic.smcdn.pl/t072-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-rock-kultowa-godzina
 #EXTINF:-1,Eska Torun
-https://waw02-04.ic.smcdn.pl/t063-1.mp3
-#EXTINF:-1,Polskie Hity
-https://waw02-03.ic.smcdn.pl/t009-1.mp3
-#EXTINF:-1,Eska Rock Hot Rock
-https://waw01-03.ic.smcdn.pl/t028-1.mp3
-#EXTINF:-1,Radio Plus Olsztyn
-https://waw01-03.ic.smcdn.pl/t071-1.mp3
-#EXTINF:-1,Eska Zamosc
-https://waw01-01.ic.smcdn.pl/t068-1.mp3
-#EXTINF:-1,Eska Elblag
-https://waw02-02.ic.smcdn.pl/t079-1.mp3
-#EXTINF:-1,Eska Kielce
-https://waw02-02.ic.smcdn.pl/t056-1.mp3
-#EXTINF:-1,Special Hity Internetow
-https://waw02-03.ic.smcdn.pl/t033-1.mp3
-#EXTINF:-1,Eska Radom
-https://waw02-01.ic.smcdn.pl/t067-1.mp3
-#EXTINF:-1,Eska Pila
-https://waw01-04.ic.smcdn.pl/t059-1.mp3
-#EXTINF:-1,Eska Zielona Gora
-https://waw02-02.ic.smcdn.pl/t065-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-torun
+#EXTINF:-1,Radio Plus Koszalin
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/radio-plus-koszalin
+#EXTINF:-1,Radio Plus Lodz
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/radio-plus-lodz
+#EXTINF:-1,Eska Kalisz Ostrow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-kalisz-ostrow
+#EXTINF:-1,Eska Beskidy
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-beskidy
+#EXTINF:-1,Eska Tarnow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-tarnow
 #EXTINF:-1,Eska Party
-https://waw01-02.ic.smcdn.pl/t005-1.mp3
-#EXTINF:-1,Eska Zary
-https://waw02-02.ic.smcdn.pl/t078-1.mp3
-#EXTINF:-1,Wawa Szczesliwa 13
-https://waw02-03.ic.smcdn.pl/t027-1.mp3
-#EXTINF:-1,Eska Plock
-https://waw02-02.ic.smcdn.pl/t070-1.mp3
-#EXTINF:-1,Eska Przemysl
-https://waw02-01.ic.smcdn.pl/t075-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-party
+#EXTINF:-1,Eska Koszalin
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-koszalin
+#EXTINF:-1,Disco Polo Party
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/disco-polo-party
+#EXTINF:-1,Eska Belchatow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-belchatow
+#EXTINF:-1,Pop Ballads
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/pop-ballads
+#EXTINF:-1,Eska Zamosc
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-zamosc
+#EXTINF:-1,Eska Elblag
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-elblag
+#EXTINF:-1,Eska Pila
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-pila
+#EXTINF:-1,Eska Radom
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-radom
 #EXTINF:-1,Eska Siedlce
-https://waw01-03.ic.smcdn.pl/t057-1.mp3
-#EXTINF:-1,Eska Leszno
-https://waw02-01.ic.smcdn.pl/t058-1.mp3
-#EXTINF:-1,The Best Of Disco Polo
-https://waw01-02.ic.smcdn.pl/t017-1.mp3
-#EXTINF:-1,Special Piosenki Dla Dzieci
-https://waw02-02.ic.smcdn.pl/t095-1.mp3
-#EXTINF:-1,Special Kolysanki Dla Dzieci
-https://waw02-02.ic.smcdn.pl/t018-1.mp3
-#EXTINF:-1,Radio Plus Podhale
-https://waw01-02.ic.smcdn.pl/t084-1.mp3
-#EXTINF:-1,Disco Polo Top
-https://waw01-02.ic.smcdn.pl/t037-1.mp3
-#EXTINF:-1,Dance
-https://waw02-02.ic.smcdn.pl/t012-1.mp3
-#EXTINF:-1,Eska Szczecinek
-https://waw02-03.ic.smcdn.pl/t074-1.mp3
-#EXTINF:-1,Eska Starachowice
-https://waw02-02.ic.smcdn.pl/t077-1.mp3
-#EXTINF:-1,Eska Krasnik
-https://waw01-03.ic.smcdn.pl/t104-1.mp3
-#EXTINF:-1,Special Go To School
-https://waw01-04.ic.smcdn.pl/t006-1.mp3
-#EXTINF:-1,Disco Party
-https://waw02-04.ic.smcdn.pl/t035-1.mp3
-#EXTINF:-1,Eska Lomza
-https://waw02-01.ic.smcdn.pl/t020-1.mp3
-#EXTINF:-1,Eska Ostrzeszow
-https://waw02-03.ic.smcdn.pl/t101-1.mp3
-#EXTINF:-1,Special Hity Na Weekend
-https://waw01-01.ic.smcdn.pl/t005-1.mp3
-#EXTINF:-1,Disco Polo
-https://waw02-04.ic.smcdn.pl/t017-1.mp3
-#EXTINF:-1,Pop 100
-https://waw02-02.ic.smcdn.pl/t039-1.mp3
-#EXTINF:-1,Club Party
-https://waw01-01.ic.smcdn.pl/t004-1.mp3
-#EXTINF:-1,Special Najlepsze Covery
-https://waw01-03.ic.smcdn.pl/t010-1.mp3
-#EXTINF:-1,Pop Do Pracy
-https://waw01-02.ic.smcdn.pl/t038-1.mp3
-#EXTINF:-1,Eska Ilawa
-https://waw02-02.ic.smcdn.pl/t080-1.mp3
-#EXTINF:-1,Pop Relaks
-https://waw01-03.ic.smcdn.pl/t038-1.mp3
-#EXTINF:-1,Muzyka Latynoska
-https://waw01-03.ic.smcdn.pl/t021-1.mp3
-#EXTINF:-1,New Pop
-https://waw01-04.ic.smcdn.pl/t019-1.mp3
-#EXTINF:-1,Special Muzyka Z Gier
-https://waw01-03.ic.smcdn.pl/t089-1.mp3
-#EXTINF:-1,New Dance
-https://waw01-01.ic.smcdn.pl/t087-1.mp3
-#EXTINF:-1,Dance Party
-https://waw02-04.ic.smcdn.pl/t012-1.mp3
-#EXTINF:-1,Gwiazdy Dance
-https://waw01-02.ic.smcdn.pl/t035-1.mp3
-#EXTINF:-1,Muzyka Do Pracy
-https://waw01-03.ic.smcdn.pl/t014-1.mp3
-#EXTINF:-1,Pop Party
-https://waw01-04.ic.smcdn.pl/t005-1.mp3
-#EXTINF:-1,Giganci Rocka
-https://waw01-03.ic.smcdn.pl/t013-1.mp3
-#EXTINF:-1,Polski Rock
-https://waw01-01.ic.smcdn.pl/t008-1.mp3
-#EXTINF:-1,Rock Do Pracy
-https://waw01-04.ic.smcdn.pl/t030-1.mp3
-#EXTINF:-1,Rock Relaks
-https://waw01-01.ic.smcdn.pl/t030-1.mp3
-#EXTINF:-1,Pop
-https://waw01-02.ic.smcdn.pl/t024-1.mp3
-#EXTINF:-1,Polski Top 40
-https://waw02-01.ic.smcdn.pl/t027-1.mp3
-#EXTINF:-1,Alternative
-https://waw01-02.ic.smcdn.pl/t015-1.mp3
-#EXTINF:-1,Dance Top 40
-https://waw02-04.ic.smcdn.pl/t087-1.mp3
-#EXTINF:-1,Pop Top 40
-https://waw02-02.ic.smcdn.pl/t019-1.mp3
-#EXTINF:-1,Rock Polska
-https://waw01-04.ic.smcdn.pl/t008-1.mp3
-#EXTINF:-1,Special Set
-https://waw02-01.ic.smcdn.pl/t019-1.mp3
-#EXTINF:-1,New Rock
-https://waw02-03.ic.smcdn.pl/t028-1.mp3
-#EXTINF:-1,Fitness
-https://waw02-02.ic.smcdn.pl/t012-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-siedlce
 #EXTINF:-1,Top Polska
-https://waw01-01.ic.smcdn.pl/t027-1.mp3
-#EXTINF:-1,Energia
-https://waw02-04.ic.smcdn.pl/t005-1.mp3
-#EXTINF:-1,Relaks
-https://waw02-02.ic.smcdn.pl/t011-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/top-polska
+#EXTINF:-1,Radio Plus Szczecin
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/radio-plus-szczecin
+#EXTINF:-1,Eska Kielce
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-kielce
+#EXTINF:-1,Eska Leszno
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-leszno
+#EXTINF:-1,Wawa Szczesliwa 13
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/wawa-szczesliwa-13
+#EXTINF:-1,Eska Zielona Gora
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-zielona-gora
+#EXTINF:-1,Polskie Hity
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/polskie-hity
+#EXTINF:-1,Eska Plock
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-plock
+#EXTINF:-1,Radio Plus Olsztyn
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/radio-plus-olsztyn
+#EXTINF:-1,Eska Przemysl
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-przemysl
+#EXTINF:-1,Special Hity Internetow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/special-hity-internetow
+#EXTINF:-1,Eska Zary
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-zary
+#EXTINF:-1,The Best Of Disco Polo
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/the-best-of-disco-polo
+#EXTINF:-1,Dance
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/dance
+#EXTINF:-1,Eska Ilawa
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-ilawa
+#EXTINF:-1,Disco Party
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/disco-party
+#EXTINF:-1,Eska Ostrzeszow
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-ostrzeszow
+#EXTINF:-1,Radio Plus Podhale
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/radio-plus-podhale
+#EXTINF:-1,Eska Szczecinek
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-szczecinek
+#EXTINF:-1,Eska Starachowice
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-starachowice
+#EXTINF:-1,Disco Polo Top
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/disco-polo-top
+#EXTINF:-1,Muzyka Latynoska
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/muzyka-latynoska
+#EXTINF:-1,Eska Lomza
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-lomza
+#EXTINF:-1,Eska Krasnik
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-krasnik
+#EXTINF:-1,Special Hity Na Weekend
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/special-hity-na-weekend
+#EXTINF:-1,Polski Rock
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/polski-rock
+#EXTINF:-1,New Pop
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/new-pop
+#EXTINF:-1,Disco Polo
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/disco-polo
+#EXTINF:-1,Special Go To School
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/special-go-to-school
+#EXTINF:-1,Pop 100
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/pop-100
+#EXTINF:-1,Pop Do Pracy
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/pop-do-pracy
+#EXTINF:-1,Gwiazdy Dance
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/gwiazdy-dance
+#EXTINF:-1,Dance Party
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/dance-party
+#EXTINF:-1,New Dance
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/new-dance
+#EXTINF:-1,Pop Relaks
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/pop-relaks
+#EXTINF:-1,Polski Top 40
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/polski-top-40
+#EXTINF:-1,Giganci Rocka
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/giganci-rocka
+#EXTINF:-1,Rock Do Pracy
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/rock-do-pracy
+#EXTINF:-1,Dance Top 40
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/dance-top-40
+#EXTINF:-1,Rock Relaks
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/rock-relaks
+#EXTINF:-1,Muzyka Do Pracy
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/muzyka-do-pracy
+#EXTINF:-1,Pop Top 40
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/pop-top-40
+#EXTINF:-1,Rock Polska
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/rock-polska
 #EXTINF:-1,Gwiazdy Pop
-https://waw01-02.ic.smcdn.pl/t005-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/gwiazdy-pop
+#EXTINF:-1,Pop Party
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/pop-party
+#EXTINF:-1,Relaks
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/relaks
 #EXTINF:-1,Bieganie
-https://waw01-04.ic.smcdn.pl/t002-1.mp3
-#EXTINF:-1,Rock Top40
-https://waw02-01.ic.smcdn.pl/t028-1.mp3
-#EXTINF:-1,Trening
-https://waw01-02.ic.smcdn.pl/t004-1.mp3
-#EXTINF:-1,Muzyka Do Nauki
-https://waw01-02.ic.smcdn.pl/t024-1.mp3
-#EXTINF:-1,Special Muzyka Z Reklam
-https://waw02-02.ic.smcdn.pl/t016-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/bieganie
+#EXTINF:-1,Special Set
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/special-set
+#EXTINF:-1,Fitness
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/fitness
+#EXTINF:-1,Energia
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/energia
 #EXTINF:-1,Milosc W Rytmie Hitow
-https://waw02-01.ic.smcdn.pl/t011-1.mp3
-#EXTINF:-1,Special Muzyka Relaksacyjna
-https://waw01-03.ic.smcdn.pl/t025-1.mp3
-#EXTINF:-1,Milosc W Rytmie Pop
-https://waw02-02.ic.smcdn.pl/t038-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/milosc-w-rytmie-hitow
+#EXTINF:-1,Eska Braniewo
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-braniewo
 #EXTINF:-1,Milosc W Rytmie Rock
-https://waw02-02.ic.smcdn.pl/t030-1.mp3
-#EXTINF:-1,Special Kobiety Rakiety
-https://waw01-02.ic.smcdn.pl/t088-1.mp3
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/milosc-w-rytmie-rock
+#EXTINF:-1,Milosc W Rytmie Pop
+http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/milosc-w-rytmie-pop
 #EXTINF:0,Open FM 1 Olga Przybysz - Niebo bliżej nas w Po Polsku (1)
 https://stream.open.fm/1
 #EXTINF:0,Open FM 2 Mike Williams feat. Moa Lisa - Make You Mine w Impreza (2)

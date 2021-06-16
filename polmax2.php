@@ -5,6 +5,7 @@
 <title>Radio Polmax 2</title>
 <meta name="description" content="Radio Polmax 2 - muzyka rozrywkowa" />
 <meta name="keywords" content="radio muzyka dance discopolo remix biesiada" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="images/giphy.ico" rel="shortcut icon" type="image/x-icon"/>
 <link href="style1.css" rel="stylesheet" type="text/css"/>
 

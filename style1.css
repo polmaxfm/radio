@@ -1,3 +1,8 @@
 ﻿body {
   background-image: url("images/tlo111.jpg");
 }
+
+div.panel11 {
+background-color: rgba(0,0,0,0.5);
+border: 2px solid black;
+}

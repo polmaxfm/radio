@@ -5,4 +5,6 @@
 div.panel11 {
 background-color: rgba(0,0,0,0.5);
 border: 2px solid black;
+min-width: 350px;
+max-width: 80%;
 }

@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1,Radio Polmax FM
 http://stream.zeno.fm/1gg3kbnzbceuv
 #EXTINF:-1,Radio Polmax FM aac +
@@ -15,9 +15,9 @@ http://stream.zeno.fm/2p4yw9sd8yzuv
 http://stream.zeno.fm/5hfdntgf8yzuv
 #EXTINF:-1,Radio Misiek aac +
 http://stream.zeno.fm/h2pfs2gf8yzuv
-#EXTINF:-1,Radio Aniołek - Religijne
+#EXTINF:-1,Radio AnioĹ‚ek Religijne
 http://stream.zeno.fm/nvz73r6m7yzuv
-#EXTINF:-1,Radio Aniołek aac +
+#EXTINF:-1,Radio AnioĹ‚ek aac +
 http://stream.zeno.fm/gmzwr46m7yzuv
 #EXTINF:-1,Radio Zabawa
 http://stream.zeno.fm/xwvpgfvk7yzuv
@@ -54,59 +54,65 @@ http://club-high.rautemusik.fm
 http://club-high.rautemusik.fm/
 #EXTINF:-1,Schlager Raute FM
 http://schlager-high.rautemusik.fm
+#EXTINF:-1,best-of-schlager Raute FM
+http://best-of-schlager-high.rautemusik.fm
 
-#EXTINF:-1,http://s1.slotex.pl:7022/
-http://s1.slotex.pl:7022/
-#EXTINF:-1,http://s1.slotex.pl:7294/stream/1/
-http://s1.slotex.pl:7294/stream/1/
-#EXTINF:-1,http://stream.slonskyradio.eu
-http://stream.slonskyradio.eu
-#EXTINF:-1,http://stream10.hosterion.pl:8066/stream
+
+#EXTINF:-1,Śląskie Radio
 http://stream10.hosterion.pl:8066/stream
-#EXTINF:-1,Radio Wesole Slonzoki--- Prezyntery majom Frei --
+#EXTINF:-1,Radio Śląsk
+http://s1.slotex.pl:7022/
+#EXTINF:-1,Śląskie Radio Hit Mix
+http://s1.slotex.pl:7294/stream/1
+#EXTINF:-1,Slonsky Radio
+http://stream.slonskyradio.eu
+#EXTINF:-1,Radio Wesole Slonzoki
 http://s1.radiohost.pl:8126
+#EXTINF:-1,RADIO BERCIK - SILESIA
+http://s3.slotex.pl/shoutcast/7770/stream?sid=1
+#EXTINF:-1,Silesia.de
+http://s1.slotex.pl:7350
+#EXTINF:-1,RADIO SILESIA 96.2 FM (Radio Silesia 96.2 FM)
+http://s1.slotex.pl:7926
+#EXTINF:-1,Radio Sympatyk
+http://radio.admin-marcin.pl:8020
+
+
 #EXTINF:-1,DiscoParty.pl - Kanal Disco
 http://s1.discoparty.pl:7432
 #EXTINF:-1,Portal Disco Polo - MediaDisco.pl
 http://s1.discoparty.pl:7432
-#EXTINF:-1,KANAL GLOWNY (128kbps, STEREO, MP3)
+#EXTINF:-1,Radio Polo.net
 http://radiopolo.net:8000/
-#EXTINF:-1,KANAL GLOWNY (128kbps, STEREO, MP3)
-http://radiopolo.net:8000/
-#EXTINF:-1,KANAL GLOWNY (128kbps, STEREO, MP3)
-http://radiopolo.net:8000/
-#EXTINF:-1,KANAL MUZYKA HITY (128kbps, STEREO, MP3)
-http://radiopolo.net:9000/
-#EXTINF:-1,KANAL MUZYKA HITY (128kbps, STEREO, MP3)
-http://radiopolo.net:9000/
-#EXTINF:-1,KANAL MUZYKA HITY (128kbps, STEREO, MP3)
+#EXTINF:-1,radio polo.net KANAL MUZYKA HITY (128kbps, STEREO, MP3)
 http://radiopolo.net:9000/
 #EXTINF:-1,Radio AM Andrychów
 http://s1.slotex.pl:7424/stream
 #EXTINF:-1,Radio Lipsko
-http://s1.slotex.pl:7298/;
+http://s1.slotex.pl:7298
+
+
+#EXTINF:-1, RadioFtb.net - Kanal Disco
+http://play.radioftb.net:8022
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal CLUB
+http://play.radioftb.net:8000
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal FLASH FM
+http://play.radioftb.net:8008
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal TRANCE
+http://play.radioftb.net:8028/stream
+#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal RETRO DJ
+http://play.radioftb.net:8016
+
+
+
 #EXTINF:-1,Internetowe radio RadioParty.pl - 128 kbps MP3
 http://s3.radioparty.pl:8005
 #EXTINF:-1,Internetowe radio RadioParty.pl - 128 kbps MP3
 http://s4.radioparty.pl:8005
-#EXTINF:-1,Internetowe radio RadioParty.pl - 128 kbps MP3
-http://s2.radioparty.pl:8005
-#EXTINF:-1,Internetowe radio RadioParty.pl - 128 kbps MP3
-http://s4.radioparty.pl:8000/rp.mp3
-#EXTINF:-1,Internetowe radio RadioParty.pl - 128 kbps MP3
-http://s6.radioparty.pl:8000/rp.mp3
-#EXTINF:-1,Internetowe radio RadioParty.pl - 128 kbps MP3
-http://s1.radioparty.pl:8888
-#EXTINF:-1,Internetowe radio RadioParty.pl - 64 kbps AAC Plus
-http://s2.radioparty.pl:8000/rp.mp3
-#EXTINF:-1,Internetowe radio RadioParty.pl - 64 kbps MP3
-http://s3.radioparty.pl:8000/rp.mp3
-#EXTINF:-1,Internetowe radio RadioParty.pl - 24 kbps AAC Plus (smartfony,tablety,wolniejsze lacza)
+#EXTINF:-1,Internetowe radio RadioParty.pl - 24 kbps AAC Plus
 http://s4.radioparty.pl:7000/rp.mp3
 #EXTINF:-1,Internetowe radio RadioParty.pl - KANAL HOUSE
 http://house.radioparty.pl:9010
-#EXTINF:-1,Internetowe radio RadioParty.pl - KANAL HOUSE
-http://house.radioparty.pl:8010
 #EXTINF:-1,Internetowe radio RadioParty.pl - KANAL TRANCE
 http://trance.radioparty.pl:8015
 #EXTINF:-1,Internetowe radio RadioParty.pl - KANAL VOCAL TRANCE
@@ -119,99 +125,35 @@ http://djmixes.radioparty.pl:8035
 http://re2k.radioparty.pl:8000
 #EXTINF:-1,Internetowe radio RadioParty.pl - KANAL ENERGY 2000
 http://energy2000.radioparty.pl:8005
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal CLUB
-http://play.radioftb.net:8000
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3
-http://play.radioftb.net:8020/stream
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal DISCO POLO
-http://play.radioftb.net:8022
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3
-http://play.radioftb.net:8021/stream
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal FLASH FM
-http://play.radioftb.net:8008
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - 128 kbps MP3
-http://play.radioftb.net:8026/stream
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal TRANCE
-http://play.radioftb.net:8028/stream
-#EXTINF:-1, RadioFtb.net Imperium Dobrej Muzyki - Kanal RETRO DJ
-http://play.radioftb.net:8016
-#EXTINF:0,RadioTP - 128kbps MP3
-http://radiotp.pl:8058/stream
-#EXTINF:0,RadioTP - 128kbps MP3
-http://radiotp.pl:8058/stream
-#EXTINF:0,RadioTP - 128kbps MP3
-http://radiotp.pl:8058/stream
-#EXTINF:0,RadioTP - 128kbps MP3
-http://radiotp.pl:8058/stream
-#EXTINF:-1,Radio Silesia - Gramy to co lubisz
-http://s1.slotex.pl:7350/;
-#EXTINF:-1,RMF Classic
-http://195.150.20.7:80/rmf_classic
-#EXTINF:-1,RMF Classic
-http://80.48.65.99:80/rmf_classic
-#EXTINF:-1,RMF Classic
-http://31.192.216.10:80/rmf_classic
-#EXTINF:-1,RMF Classic
-http://31.192.216.8:80/rmf_classic
-#EXTINF:-1,RMF Classic
-http://80.48.65.98:/rmf_classic
-#EXTINF:-1,RMF Classic
-http://31.192.216.8:80/rmf_classic
-#EXTINF:-1,RMF Classic
-http://80.48.65.98:/rmf_classic
-#EXTINF:-1,RMF Classic
-http://31.192.216.8:80/rmf_classic
-#EXTINF:-1,RMF Classic
-http://31.192.216.7:80/rmf_classic
-#EXTINF:-1,RMF Classic
-http://195.150.20.9:80/rmf_classic
-#EXTINF:-1,RMF FM
-http://31.192.216.10:80/rmf_fm
-#EXTINF:-1,RMF FM
-http://31.192.216.8:80/rmf_fm
-#EXTINF:-1,RMF FM
-http://80.48.65.98:/rmf_fm
-#EXTINF:-1,RMF FM
-http://80.48.65.98:/rmf_fm
-#EXTINF:-1,RMF FM
-http://31.192.216.10:80/rmf_fm
-#EXTINF:-1,RMF FM
-http://195.150.20.8:80/rmf_fm
-#EXTINF:-1,RMF FM
-http://31.192.216.8:80/rmf_fm
-#EXTINF:-1,RMF FM
-http://80.48.65.99:80/rmf_fm
-#EXTINF:-1,RMF FM
-http://80.48.65.99:80/rmf_fm
-#EXTINF:-1,RMF FM
-http://31.192.216.6:80/rmf_fm
-#EXTINF:-1,https://rs201-krk-cyfronet.rmfstream.pl/RMFMAXXX48
-https://rs201-krk-cyfronet.rmfstream.pl/RMFMAXXX48
-#EXTINF:-1,http://88.199.169.10:7500/
-http://88.199.169.10:7500/
-#EXTINF:-1,https://radio.stream.smcdn.pl/icradio-p/1240-1.aac/playlist.m3u8
-https://radio.stream.smcdn.pl/icradio-p/1240-1.aac/playlist.m3u8
+
+
+
+
 #EXTINF:-1,TechnoBase.FM - MP3 192k - High Quality - (DSL/Cable)
 http://listen.technobase.fm/tunein-mp3-pls
 #EXTINF:-1,TechnoBase.FM - AACplus 96k - Very High Quality - (DSL/Cable)
 http://listen.technobase.fm/tunein-aacplus-pls
 #EXTINF:-1,TechnoBase.FM - AACplus 40k - Low Quality - (ISDN)
 http://listen.technobase.fm/tunein-aacisdn-pls
-#EXTINF:-1,http://sluchaj.twojapolskastacja.pl:8068/
-http://sluchaj.twojapolskastacja.pl:8068/
-#EXTINF:-1,http://51.77.59.65:8100/stream.mp3
-http://51.77.59.65:8100/stream.mp3
-#EXTINF:-1,https://ext03.ic.smcdn.pl/3990-1.mp3
+
+
+
+#EXTINF:-1,RMF FM
+http://31.192.216.10:80/rmf_fm
+#EXTINF:-1,RMF FM
+http://31.192.216.8:80/rmf_fm
+#EXTINF:-1,RMF MAXXX
+https://rs201-krk-cyfronet.rmfstream.pl/RMFMAXXX48
+#EXTINF:-1,RMF Classic
+http://195.150.20.7:80/rmf_classic
+
+#EXTINF:-1,VOX FM
 https://ext03.ic.smcdn.pl/3990-1.mp3
-#EXTINF:-1,https://radio.stream.smcdn.pl/icradio-p/2130-1.aac/playlist.m3u8
-https://radio.stream.smcdn.pl/icradio-p/2130-1.aac/playlist.m3u8
-#EXTINF:-1,https://radio.stream.smcdn.pl/icradio-p/2230-1.aac/playlist.m3u8
-https://radio.stream.smcdn.pl/icradio-p/2230-1.aac/playlist.m3u8
-#EXTINF:-1,http://posluchaj.radiozamosc.pl
-http://posluchaj.radiozamosc.pl
-#EXTINF:-1,http://stream3.polskieradio.pl:8900/
+#EXTINF:-1,Katolickie Radio Zamość
+http://posluchaj.krz.pl
+#EXTINF:-1,Polskie Radio Program 1
 http://stream3.polskieradio.pl:8900/
-#EXTINF:-1,http://stream3.polskieradio.pl:8080/
+#EXTINF:-1,Polskie Radio 24
 http://stream3.polskieradio.pl:8080/
 #EXTINF:-1,Radio FARA
 http://62.133.128.22:8000/relay
@@ -227,27 +169,27 @@ https://gra.radio.kielce.pl:8443/rk1
 http://streaming.radio.lublin.pl:8000/128k
 #EXTINF:-1,Radio Lublin - mp3
 http://streaming.radio.lublin.pl:8000/32k
-#EXTINF:-1,Radio Lublin - mp3
-http://streaming.radio.lublin.pl:8000/rl_mp3
 #EXTINF:-1,Radio Lublin - aac
 http://streaming.radio.lublin.pl:8000/64k
 #EXTINF:-1,(Radio Niepokalanow)
 http://88.199.169.10:7600/rn.mp3
 #EXTINF:-1,Radio Opatów
 http://stream2.nadaje.com:11144/;stream
-#EXTINF:-1,https://stream.radiopiekary.pl/?1622500458131
+#EXTINF:-1,Radio Piekary
 https://stream.radiopiekary.pl/?1622500458131
-#EXTINF:-1,http://stream.plus.legnica.pl:8000/radioplus
+#EXTINF:-1,Radio Plus Legnica
 http://stream.plus.legnica.pl:8000/radioplus
-#EXTINF:-1,http://radiostream.pl/tuba38-1.mp3
+#EXTINF:-1,Radio Pogoda Warszawa
 http://radiostream.pl/tuba38-1.mp3
 #EXTINF:-1,Rekord Radom
 http://stream2.nadaje.com:8108/;
-#EXTINF:-1,https://streaming.g-news.pl:8040/rzeszow
+#EXTINF:-1,Twoja Polska Stacja
+http://sluchaj.twojapolskastacja.pl:8068/
+#EXTINF:-1,Twoje Radio
+http://51.77.59.65:8100/stream.mp3
+#EXTINF:-1,Radio Rzeszów
 https://streaming.g-news.pl:8040/rzeszow
-#EXTINF:-1,Radio Silesia 96.2 FM
-http://s1.slotex.pl:7926/;
-#EXTINF:-1,http://stream2.nadaje.com:8012/
+#EXTINF:-1,Radio SUD
 http://stream2.nadaje.com:8012/
 #EXTINF:-1,Katolickie Radio Via
 http://62.133.128.18:8100/;
@@ -255,19 +197,25 @@ http://62.133.128.18:8100/;
 http://62.133.128.18:8040/;
 #EXTINF:-1,RADIO WRZESNIA - ZAPRASZAMY
 http://s1.slotex.pl:7446/;
-#EXTINF:-1,https://n-6-12.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
+#EXTINF:-1,Eurozet
 https://n-6-12.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
 #EXTINF:-1,RadioFreee 89.9FM
 https://streaming.radio.lublin.pl:8843/radiofreeeacp
+#EXTINF:-1,http://88.199.169.10:7500/
+http://88.199.169.10:7500/
 #EXTINF:-1,Radio Maryja
 https://radiomaryja.fastcast4u.com/tunein/radiomaryja.pls
-#EXTINF:-1,http://streaming.tvs.pl:8010
+
+
+
+
+#EXTINF:-1,Silesia.fm
 http://streaming.tvs.pl:8010
 #EXTINF:-1,DAMISMANIA DJ RADIO
 http://s1.slotex.pl:7512/;
-#EXTINF:-1,Pilot
+#EXTINF:-1,Radio Forewer
 http://s1.slotex.pl:7134/;
-#EXTINF:-1,DiSCO PILOT
+#EXTINF:-1,FTM.pl
 http://s1.slotex.pl:7792/;
 #EXTINF:-1,Najlepsze Pozytywne Radio
 http://s1.slotex.pl:7976/;
@@ -275,31 +223,28 @@ http://s1.slotex.pl:7976/;
 http://s1.slotex.pl:7428/;
 #EXTINF:-1,Radio Manhattan
 http://s1.slotex.pl:7780/;
-#EXTINF:-1,Adas zapodaje  gra bo lubi
+#EXTINF:-1,maxplayfm
 http://s1.slotex.pl:8880/;
-#EXTINF:-1,Najlepsze Disco w Sieci
+#EXTINF:-1,Radio Outsaider.pl
 http://s1.slotex.pl:7120/;
 #EXTINF:-1,MUZYCZNE RADIO TESIA
 http://s1.slotex.pl:7514/;
-#EXTINF:-1,...::gramy na maxa:::..
+#EXTINF:-1,Nasze Radio
 http://s1.slotex.pl:7146/;
-#EXTINF:-1,lecimy z szalon� kasi�
+#EXTINF:-1,Radio Maniak
 http://s1.slotex.pl:7396/;
-#EXTINF:-1,http://s1.slotex.pl:7288/
+#EXTINF:-1,pelnosprytni.pl
 http://s1.slotex.pl:7288/
-#EXTINF:-1,http://s1.slotex.pl:7108
+#EXTINF:-1,melodie tamtych lat
 http://s1.slotex.pl:7108
-#EXTINF:-1,http://s1.slotex.pl:7138/stream/1/
+#EXTINF:-1,Radio Śpioch
 http://s1.slotex.pl:7138/stream/1/
-#EXTINF:-1,Autopilot Krzysztofa
+#EXTINF:-1,Radio Start
 http://s2.panelradiowy.pl:10116/;
-#EXTINF:-1,Klub Mix
+#EXTINF:-1,mzuzycznie z pasją
 http://s1.slotex.pl:7248/;
-#EXTINF:-1,http://91.232.4.33:9454/Stream1
+#EXTINF:-1,Radio Banita
 http://91.232.4.33:9454/Stream1
-
-
-
 
 
 
@@ -529,7 +474,7 @@ http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/eska-braniewo
 http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/milosc-w-rytmie-rock
 #EXTINF:-1,Milosc W Rytmie Pop
 http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/milosc-w-rytmie-pop
-#EXTINF:0,Open FM 1 Olga Przybysz - Niebo bliżej nas w Po Polsku (1)
+#EXTINF:0,Open FM 1 Olga Przybysz - Niebo bliĹĽej nas w Po Polsku (1)
 https://stream.open.fm/1
 #EXTINF:0,Open FM 2 Mike Williams feat. Moa Lisa - Make You Mine w Impreza (2)
 https://stream.open.fm/2
@@ -553,23 +498,23 @@ https://stream.open.fm/9
 https://stream.open.fm/10
 #EXTINF:0,Jennifer Paige - Crush w 1001 Hits (11)
 https://stream.open.fm/11
-#EXTINF:0,Czadoman - Roześmiana w Impreza PL (12)
+#EXTINF:0,Czadoman - RozeĹ›miana w Impreza PL (12)
 https://stream.open.fm/12
-#EXTINF:0,Godsmack - I Stand Alone w Ciężkie Brzmienia (13)
+#EXTINF:0,Godsmack - I Stand Alone w CiÄ™ĹĽkie Brzmienia (13)
 https://stream.open.fm/13
 #EXTINF:0,Wilki - Son of the Blue Sky w 90s Hits (14)
 https://stream.open.fm/14
-#EXTINF:0,Dżem - Wiem na pewno wiem-nie nie kocham Cię w 100% Dżem (15)
+#EXTINF:0,DĹĽem - Wiem na pewno wiem-nie nie kocham CiÄ™ w 100% DĹĽem (15)
 https://stream.open.fm/15
 #EXTINF:0,Jerz Igor - Sowy w Kids - Muzyka & Ciekawostki (16)
 https://stream.open.fm/16
-#EXTINF:0,Czerwone Gitary - Ciągle pada w Po Polsku 60/70 (17)
+#EXTINF:0,Czerwone Gitary - CiÄ…gle pada w Po Polsku 60/70 (17)
 https://stream.open.fm/17
 #EXTINF:0,REKLAMA - open.fm - REKLAMA (18)
 https://stream.open.fm/18
 #EXTINF:0,Gente De Zona feat. Marc Anthony - La Gozadera w Latino Hits (19)
 https://stream.open.fm/19
-#EXTINF:0,Pink Floyd - High Hopes w Ballady Wszech Czasów (20)
+#EXTINF:0,Pink Floyd - High Hopes w Ballady Wszech CzasĂłw (20)
 https://stream.open.fm/20
 #EXTINF:0,Wiszu - Rakieta w Disco Polo (21)
 https://stream.open.fm/21
@@ -577,9 +522,9 @@ https://stream.open.fm/21
 https://stream.open.fm/22
 #EXTINF:0,Method Man - What's Happenin' w Hip-Hop USA (23)
 https://stream.open.fm/23
-#EXTINF:0,Pezet - Nie zobaczysz łez w Hip-Hop PL (24)
+#EXTINF:0,Pezet - Nie zobaczysz Ĺ‚ez w Hip-Hop PL (24)
 https://stream.open.fm/24
-#EXTINF:0,Smokey Robinson & The Miracles - I Second That Emotion w Retro Café (25)
+#EXTINF:0,Smokey Robinson & The Miracles - I Second That Emotion w Retro CafĂ© (25)
 https://stream.open.fm/25
 #EXTINF:0,Iggy Azalea feat. Rita Ora - Black Widow w 500 R'n'b Hits (26)
 https://stream.open.fm/26
@@ -597,13 +542,13 @@ https://stream.open.fm/31
 https://stream.open.fm/32
 #EXTINF:0,Extrawelt - Schlusslicht w Chillout (33)
 https://stream.open.fm/33
-#EXTINF:0,Kodaline - Worth It w Alt Café (34)
+#EXTINF:0,Kodaline - Worth It w Alt CafĂ© (34)
 https://stream.open.fm/34
 #EXTINF:0,Kult - Pot i kreff w 100% Kazik (35)
 https://stream.open.fm/35
 #EXTINF:0,Sonbird - Wodospady w Alt PL (36)
 https://stream.open.fm/36
-#EXTINF:0,Hanna Banaszak - W moim magicznym domu w Kraina Łagodności (37)
+#EXTINF:0,Hanna Banaszak - W moim magicznym domu w Kraina ĹagodnoĹ›ci (37)
 https://stream.open.fm/37
 #EXTINF:0,Vangelis - Chariots of Fire w Muzyka Filmowa (38)
 https://stream.open.fm/38
@@ -617,31 +562,31 @@ https://stream.open.fm/41
 https://stream.open.fm/42
 #EXTINF:0,Jet - Are You Gonna Be My Girl w Alt Classic (43)
 https://stream.open.fm/43
-#EXTINF:0,Budka Suflera - Cień wielkiej góry w Polski Rock Classic (45)
+#EXTINF:0,Budka Suflera - CieĹ„ wielkiej gĂłry w Polski Rock Classic (45)
 https://stream.open.fm/45
 #EXTINF:0,Big Brother & The Holding Company - Piece of My Heart w Classic Hits (46)
 https://stream.open.fm/46
-#EXTINF:0,Growbox - Mięso z grilla w 100% O.S.T.R. (47)
+#EXTINF:0,Growbox - MiÄ™so z grilla w 100% O.S.T.R. (47)
 https://stream.open.fm/47
-#EXTINF:0,Mrozu - Aura w Ladies Café (48)
+#EXTINF:0,Mrozu - Aura w Ladies CafĂ© (48)
 https://stream.open.fm/48
 #EXTINF:0,Centrum - Hej, hej, hej w Disco Polo Classic (49)
 https://stream.open.fm/49
 #EXTINF:0,Tina Turner - Private Dancer w Classic Party (50)
 https://stream.open.fm/50
-#EXTINF:0,Odgłosy natury - Wieczór w lesie w Odgłosy Natury (52)
+#EXTINF:0,OdgĹ‚osy natury - WieczĂłr w lesie w OdgĹ‚osy Natury (52)
 https://stream.open.fm/52
-#EXTINF:0,Playboys - Kocham cię ot tak w Top 20 Disco Polo (53)
+#EXTINF:0,Playboys - Kocham ciÄ™ ot tak w Top 20 Disco Polo (53)
 https://stream.open.fm/53
 #EXTINF:0,Rammstein - Du Hast (Single Version) w 500 Heavy Hits (54)
 https://stream.open.fm/54
 #EXTINF:0,Interpol - Evil w 500 Alternative Hits (55)
 https://stream.open.fm/55
-#EXTINF:0,Exaited - Myślę o tobie w Disco Polo Freszzz (57)
+#EXTINF:0,Exaited - MyĹ›lÄ™ o tobie w Disco Polo Freszzz (57)
 https://stream.open.fm/57
 #EXTINF:0,Madonna - Frozen w Gwiazdy (58)
 https://stream.open.fm/58
-#EXTINF:0,Cymes Kapela - Zarzucę płaszcz w Biesiada (59)
+#EXTINF:0,Cymes Kapela - ZarzucÄ™ pĹ‚aszcz w Biesiada (59)
 https://stream.open.fm/59
 #EXTINF:0,Sting - Fields of Gold w Smooth Jazz (60)
 https://stream.open.fm/60
@@ -649,35 +594,35 @@ https://stream.open.fm/60
 https://stream.open.fm/61
 #EXTINF:0,Metallica - Moth Into Flame w 100% Metallica (62)
 https://stream.open.fm/62
-#EXTINF:0,Jubël - Blue Jeans w 100% Hits (64)
+#EXTINF:0,JubĂ«l - Blue Jeans w 100% Hits (64)
 https://stream.open.fm/64
 #EXTINF:0,Robin Schulz feat. Erika Sirola - Speechless w Fitness (65)
 https://stream.open.fm/65
-#EXTINF:0,Duo Fenix - Siedem zmysłów w Biesiada Śląska (66)
+#EXTINF:0,Duo Fenix - Siedem zmysĹ‚Ăłw w Biesiada ĹšlÄ…ska (66)
 https://stream.open.fm/66
 #EXTINF:0,Jordi Saval & Les Concert Des Nations - L'arabesque w Muzyka Klasyczna (67)
 https://stream.open.fm/67
 #EXTINF:0,Hugeative - 4our w Dubstep (68)
 https://stream.open.fm/68
-#EXTINF:0,Wiz Khalifa feat. Charlie Puth - See You Again w Dzień Dobry! (69)
+#EXTINF:0,Wiz Khalifa feat. Charlie Puth - See You Again w DzieĹ„ Dobry! (69)
 https://stream.open.fm/69
-#EXTINF:0,Muzyka do głębokiego snu - Śpij spokojnie (Śpiew ptaków) w Muzyka do snu (70)
+#EXTINF:0,Muzyka do gĹ‚Ä™bokiego snu - Ĺšpij spokojnie (Ĺšpiew ptakĂłw) w Muzyka do snu (70)
 https://stream.open.fm/70
 #EXTINF:0,Mika - Relax (Take It Easy) w 00s Hits (72)
 https://stream.open.fm/72
-#EXTINF:0,Pidżama Porno - Bon ton na ostrzu noża w 100% Grabaż (73)
+#EXTINF:0,PidĹĽama Porno - Bon ton na ostrzu noĹĽa w 100% GrabaĹĽ (73)
 https://stream.open.fm/73
 #EXTINF:0,The Avener - Fade Out Lines w Dobranoc (74)
 https://stream.open.fm/74
 #EXTINF:0,Alexia - Uh La La La w Summer Hits (75)
 https://stream.open.fm/75
-#EXTINF:0,Coldplay - Hypnotised w Crema Café (76)
+#EXTINF:0,Coldplay - Hypnotised w Crema CafĂ© (76)
 https://stream.open.fm/76
 #EXTINF:0,30 Seconds to Mars - Beautiful Lie w Rocks (77)
 https://stream.open.fm/77
 #EXTINF:0,Dezerter - Dolina Lalek w Punk Rock (78)
 https://stream.open.fm/78
-#EXTINF:0,Marek Biliński - Dom w Dolinie Mgieł w Po Polsku 80 (79)
+#EXTINF:0,Marek BiliĹ„ski - Dom w Dolinie MgieĹ‚ w Po Polsku 80 (79)
 https://stream.open.fm/79
 #EXTINF:0,Zayn - Sour Diesel w 100% One Direction (80)
 https://stream.open.fm/80
@@ -701,9 +646,9 @@ https://stream.open.fm/94
 https://stream.open.fm/95
 #EXTINF:0,Ellie Goulding - Power w Top 20 Pop (96)
 https://stream.open.fm/96
-#EXTINF:0,Michał Szczygieł - Tak jak chcę w Top 20 PL (97)
+#EXTINF:0,MichaĹ‚ SzczygieĹ‚ - Tak jak chcÄ™ w Top 20 PL (97)
 https://stream.open.fm/97
-#EXTINF:0,JWP/BC - A nie mówiłem w Top 20 Hip-Hop (98)
+#EXTINF:0,JWP/BC - A nie mĂłwiĹ‚em w Top 20 Hip-Hop (98)
 https://stream.open.fm/98
 #EXTINF:0,Grey Daze - Soul Song w Top 20 Rock (99)
 https://stream.open.fm/99
@@ -719,15 +664,15 @@ https://stream.open.fm/103
 https://stream.open.fm/104
 #EXTINF:0,Metrik feat. Elisabeth Troy - Chasing Sunrise w Beats & Bass (106)
 https://stream.open.fm/106
-#EXTINF:0,WWO feat. Dekadencja - Uważaj jak tańczysz w Hip-Hop Klasyk (107)
+#EXTINF:0,WWO feat. Dekadencja - UwaĹĽaj jak taĹ„czysz w Hip-Hop Klasyk (107)
 https://stream.open.fm/107
 #EXTINF:0,Metallica - Seek & Destroy w Classic Metal (108)
 https://stream.open.fm/108
 #EXTINF:0,Coldplay - Magic w Praca (109)
 https://stream.open.fm/109
-#EXTINF:0,Maryla Rodowicz - Ale to już było w Wesele (110)
+#EXTINF:0,Maryla Rodowicz - Ale to juĹĽ byĹ‚o w Wesele (110)
 https://stream.open.fm/110
-#EXTINF:0,Ania Dąbrowska - Porady na zdrady (Dreszcze) w Tylko Polskie Przeboje (111)
+#EXTINF:0,Ania DÄ…browska - Porady na zdrady (Dreszcze) w Tylko Polskie Przeboje (111)
 https://stream.open.fm/111
 #EXTINF:0,James TW - Black & Blue w Relaks (112)
 https://stream.open.fm/112
@@ -747,7 +692,7 @@ https://stream.open.fm/119
 https://stream.open.fm/120
 #EXTINF:0,Meghan Trainor feat. John Legend - Like I'm Gonna Lose You w Love (121)
 https://stream.open.fm/121
-#EXTINF:0,Jorrgus - Uzależniłaś mnie w Summer Polo (122)
+#EXTINF:0,Jorrgus - UzaleĹĽniĹ‚aĹ› mnie w Summer Polo (122)
 https://stream.open.fm/122
 #EXTINF:0,Cyndi Lauper - Girls Just Wanna Have Fun w Summer Classic (125)
 https://stream.open.fm/125

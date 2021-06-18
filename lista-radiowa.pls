@@ -35,7 +35,7 @@ Length11=-1
 File12=http://stream.zeno.fm/9921m8gf8yzuv
 Title12=Radio 5
 Length12=-1
-File13=http://ext03.ic.smcdn.pl/3990-1.mp3
+File13=http://polmaxfm.tk/r/voxfm
 Title13=VOX FM
 Length13=-1
 File14=http://212.160.87.202/radio.php?url=https://www.eskago.pl/radio/vox-fm
@@ -59,7 +59,7 @@ Length19=-1
 File20=http://proxima.shoutca.st:9045/stream
 Title20=Radio Alex Zakopane
 Length20=-1
-File21=http://listener2.mp3.tb-group.fm/tb.mp3
+File21=http://polmaxfm.tk/r/technobase
 Title21=Technobase FM
 Length21=-1
 File22=http://club-high.rautemusik.fm

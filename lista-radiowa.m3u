@@ -135,7 +135,8 @@ http://listen.technobase.fm/tunein-mp3-pls
 http://listen.technobase.fm/tunein-aacplus-pls
 #EXTINF:-1,TechnoBase.FM - AACplus 40k - Low Quality - (ISDN)
 http://listen.technobase.fm/tunein-aacisdn-pls
-
+#EXTINF:-1,Generation Dance
+https://generationdance.lu//radio//8030//hd
 
 
 #EXTINF:-1,RMF FM

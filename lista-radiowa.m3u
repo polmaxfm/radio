@@ -44,6 +44,8 @@ http://stream.rcs.revma.com/q18ty3qhwzzuv
 http://gra.radio.kielce.pl:8000/frmp3
 #EXTINF:-1,Italia Dance Music
 http://91.121.118.99:8032/stream2
+#EXTINF:-1,Radio Wielkopolska
+http://217.182.76.63:8000/webstream
 #EXTINF:-1,Radio Alex Zakopane
 http://proxima.shoutca.st:9045/stream
 #EXTINF:-1,Technobase FM

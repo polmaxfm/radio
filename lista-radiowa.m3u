@@ -64,6 +64,11 @@ http://schlager-high.rautemusik.fm
 http://best-of-schlager-high.rautemusik.fm
 
 
+
+#EXTINF:-1,Radio Gmina Ryn
+http://mpc2.mediacp.eu/stream/radioryn/stream
+#EXTINF:-1,Lokalne Radio Ryn
+http://cmr-hosting.com:8050/;
 #EXTINF:-1,Śląskie Radio
 http://stream10.hosterion.pl:8066/stream
 #EXTINF:-1,Radio Śląsk
